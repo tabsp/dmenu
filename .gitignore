@@ -1,0 +1,6 @@
+*.o
+.ccls-cache
+dmenu
+*.orig
+*.rej
+stest
